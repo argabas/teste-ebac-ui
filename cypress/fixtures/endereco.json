@@ -1,0 +1,47 @@
+[
+    {
+        "nome": "Ana",
+        "sobrenome": "Ra",
+        "empresa": "Toddy",
+        "endereco": "Rua",
+        "numero": "10",
+        "pais": "Brasil",
+        "cidade": "Jau",
+        "estado": "São Paulo",
+        "cep": "13579-246",
+        "telefone": "01 23456-7890",
+        "email": "anara@teste.com"
+
+    },
+
+    {
+        "nome": "Jão",
+        "sobrenome": "Ro",
+        "empresa": "Nescau",
+        "endereco": "Av",
+        "numero": "20",
+        "pais": "Brasil",
+        "cidade": "Cur",
+        "estado": "Parana",
+        "cep": "24680-135",
+        "telefone": "13 57902-4681",
+        "email": "jaoro@teste.com.br"
+
+    },
+
+    {
+        "nome": "Zé",
+        "sobrenome": "Ru",
+        "empresa": "Chocolato",
+        "endereco": "Trav",
+        "numero": "30",
+        "pais": "Brasil",
+        "cidade": "Tar",
+        "estado": "Bahia",
+        "cep": "01234-567",
+        "telefone": "02 46813-5790",
+        "email": "zeru@teste.com"
+
+    }
+
+]
